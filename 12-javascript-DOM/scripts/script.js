@@ -29,6 +29,7 @@ window.onload = () => {
   )[0];
   // code ici
 
+    
 
   // 6. Modifiez la police du texte pour toutes les éléments de la liste
 
